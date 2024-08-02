@@ -48,7 +48,7 @@ Aplicar estilos a tu CV utilizando solo CSS.
 2. Enlaza este archivo CSS a tu archivo HTML utilizando la etiqueta `<link>`.
 3. Aplica los siguientes estilos:
     - Colores y fuentes que hagan tu CV atractivo.
-    - Márgenes y padding para espaciar bien los elementos.
+    - Margin y padding para espaciar bien los elementos.
     - Estilos para listas, encabezados y párrafos.
     - Diseña una layout que haga tu CV fácil de leer.
 
