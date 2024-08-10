@@ -1,3 +1,17 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Bw5l2ga8)
+# Despliegue de página de CV
+
+> Link: [https://dsaw-2024-2.github.io/my-cv-part-b-NicolasCacer/](https://dsaw-2024-2.github.io/my-cv-part-b-NicolasCacer/)
+
+# Juego Cocina
+
+![alt text](image.png)
+
+# Juego Flexbox Frogyy
+
+![image](https://github.com/user-attachments/assets/0f1f2ed2-b009-48e4-89c7-5670bbc715d1)
+
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -47,7 +61,7 @@ Aplicar estilos a tu CV utilizando solo CSS.
 2. Enlaza este archivo CSS a tu archivo HTML utilizando la etiqueta `<link>`.
 3. Aplica los siguientes estilos:
     - Colores y fuentes que hagan tu CV atractivo.
-    - Márgenes y padding para espaciar bien los elementos.
+    - Margin y padding para espaciar bien los elementos.
     - Estilos para listas, encabezados y párrafos.
     - Diseña una layout que haga tu CV fácil de leer.
 
