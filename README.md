@@ -4,6 +4,11 @@
 
 ![alt text](image.png)
 
+# Juego Flexbox Frogyy
+
+![image](https://github.com/user-attachments/assets/0f1f2ed2-b009-48e4-89c7-5670bbc715d1)
+
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
